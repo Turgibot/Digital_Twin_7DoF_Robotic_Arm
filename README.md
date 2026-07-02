@@ -1,4 +1,4 @@
-# MyThesis
+# Digital Twin of 7DoF Arm
 My Project of digital twin in a dynamic scene dataset generator tool
 
 
