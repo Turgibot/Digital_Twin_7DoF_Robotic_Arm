@@ -1,5 +1,5 @@
 # MyThesis
-My master thesis in the open university of Israel at the NBEL lab
+My Project of digital twin in a dynamic scene dataset generator tool
 
 
 ## DataSet
